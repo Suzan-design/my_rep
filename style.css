@@ -10,7 +10,7 @@ body {
     height: 100%;
     background-image: url(imgs/iphone1.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: contain;
     background-attachment: fixed;
     background-blend-mode: multiply;
     background-position: center;
